@@ -1,4 +1,4 @@
-# For two dataframs that have the same number of rows, merge all columns, row by row.
+# For two Dataframes that have the same number of rows, merge all columns, row by row.
 
 # Get the function monotonically_increasing_id so we can assign ids to each row, when the
 # Dataframes have the same number of rows.
